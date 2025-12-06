@@ -9,7 +9,7 @@
 <a href="https://arxiv.org/abs/2508.18966"><img alt="Build" src="https://img.shields.io/badge/Tech%20Report-USO-b31b1b.svg"></a>
 <a href="https://huggingface.co/bytedance-research/USO"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=Model&color=green"></a>
 <a href="https://huggingface.co/spaces/bytedance-research/USO"><img src="https://img.shields.io/static/v1?label=%F0%9F%A4%97%20Hugging%20Face&message=demo&color=orange"></a>
-<a href="https://colab.research.google.com/github/neverbiasu/USO-Colab/blob/main/USO_Colab.ipynb"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white"
+<a href="https://colab.research.google.com/github/neverbiasu/USO-Colab/blob/main/colab.ipynb"><img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=plastic&logo=google-colab&logoColor=white"
 </p>
 </p>
 
